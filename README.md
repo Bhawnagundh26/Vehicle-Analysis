@@ -11,6 +11,9 @@ Overall, this interactive dashboard using R and the Vehicle Failure Dataset prov
 -> The dynamic dashboard created to visually observe the car failures in the United states.
 -> Statistics in vehicle failure analysis is a crucial process behind how we make decisions based on data, and make predictions.
 -> I have represented data in the form of pie chart, bar plot, box plot and also used colour maps to visualize the region-wise vehicle failure in the country as per the dataset.
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Screenshot 2024-04-18 202918](https://github.com/Bhawnagundh26/Vehicle-Analysis/assets/91724415/18917495-5f0a-43e1-bc90-1abb96664d75)
